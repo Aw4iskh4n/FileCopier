@@ -11,29 +11,27 @@ To use FileCopier, ensure Python is installed on your system. If Python is not i
 Clone the FileCopier repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/your-username/FileCopier.git
+git clone https://github.com/Aw4iskh4n/FileCopier.git
 ```
 ```
 cd FileCopier
 ```
 
-Replace `your-username` with your GitHub username.
-
 ## Usage
 
 Navigate to the cloned directory in your command line or terminal and run:
 
-\```bash
+```bash
 python extract_files.py [source_directory] [destination_directory]
-\```
+```
 
 Replace `[source_directory]` with the path of the directory from which you want to copy files, and `[destination_directory]` with the path of the directory where you want the files copied.
 
 ### Example
 
-\```bash
+```bash
 python extract_files.py "C:\\Users\\Example\\Downloads\\SourceFolder" "C:\\Users\\Example\\Documents\\DestinationFolder"
-\```
+```
 
 ## Features
 
