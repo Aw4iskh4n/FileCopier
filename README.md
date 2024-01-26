@@ -12,8 +12,10 @@ Clone the FileCopier repository to your local machine using Git:
 
 ```bash
 git clone https://github.com/your-username/FileCopier.git
+```
+```
 cd FileCopier
-\```
+```
 
 Replace `your-username` with your GitHub username.
 
