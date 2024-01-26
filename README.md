@@ -10,7 +10,7 @@ To use FileCopier, ensure Python is installed on your system. If Python is not i
 
 Clone the FileCopier repository to your local machine using Git:
 
-\```bash
+```bash
 git clone https://github.com/your-username/FileCopier.git
 cd FileCopier
 \```
